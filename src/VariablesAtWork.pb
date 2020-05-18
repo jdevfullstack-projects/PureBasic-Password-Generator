@@ -18,5 +18,3 @@ If OpenWindow(0, 0, 0, 720, 100, "Variables At Work", #WINDOW_FLAG)
   TextGadget(5, 10, 30, 700, 38, MessageDisplay + Concatenated, #GADGET_FLAG)
   Repeat : Until WaitWindowEvent() = #PB_Event_CloseWindow
 EndIf
-; IDE Options = PureBasic 5.00 (Windows - x64)
-; EnableXP
