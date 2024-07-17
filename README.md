@@ -33,4 +33,4 @@ or press F5.
 MIT - the permissive license
 
 ## More PureBasic Projects
-check the main Page -> [PureBasic](https://github.com/jdevfullstack/PureBasic)
+check the Main Page -> [PureBasic](https://github.com/jdevfullstack/PureBasic)
